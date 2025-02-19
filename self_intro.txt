@@ -1,11 +1,21 @@
-Hi, I'm Pavan Kumar M, a Software Development Engineer with six years of experience specializing in Cloud Computing, Python, and Automation. Currently, I work at Amazon as an SDE, where I lead and develop high-impact automation solutions to enhance efficiency in Amazon Ads.
+Hi, I'm Pavan Kumar M, a Software Development Engineer with six years of experience specializing in Cloud Computing, Python, and Automation. 
+Currently, I work at Amazon as an SDE, where I lead and develop high-impact automation solutions to enhance efficiency in Amazon Ads.
 
-At Amazon, I spearheaded the Data Investigation team for Ads, tackling complex data challenges across DSP, SP, and SB. I built automation tools like Data Latency Monitor and Data Backfill Notifier, which significantly reduced Mean Time to Resolution (MTTR) for ticket resolution, improving operational efficiency.
+At Amazon, I spearheaded the Data Investigation team for Ads, tackling complex data challenges across DSP, SP, and SB. 
+I built automation tools like Data Latency Monitor and Data Backfill Notifier, which significantly reduced Mean Time to Resolution (MTTR) for ticket resolution, 
+improving operational efficiency.
 
-One of my major contributions was developing SARA (Search And Rescue Automation)—an intelligent system that validates URLs against denied party lists, verifies SSL security, and classifies websites as ads or non-ads using AI-driven contextual analysis. It also automates partner nudging by leveraging AWS services like Comprehend, Textract, WorkMail, and Lambda while mimicking human-like interactions based on historical email conversations.
+One of my major contributions was developing SARA (Search And Rescue Automation)—an intelligent system that validates URLs against denied party lists, 
+verifies SSL security, and classifies websites as ads or non-ads using AI-driven contextual analysis. It also automates partner nudging by leveraging AWS services like 
+Comprehend, Textract, WorkMail, and Lambda while mimicking human-like interactions based on historical email conversations.
 
-Additionally, I designed Tesseract, an advanced AI-powered web crawler for the Risk & Security team. It detects false marketing claims, trademark violations, misuse of logos, and presence of top leadership images on websites—ensuring compliance and brand safety. These tools have streamlined security workflows and automated risk assessment processes.
+Additionally, I designed Tesseract, an advanced AI-powered web crawler for the Risk & Security team. It detects false marketing claims, 
+trademark violations, misuse of logos, and presence of top leadership images on websites—ensuring compliance and brand safety. 
+These tools have streamlined security workflows and automated risk assessment processes.
 
-Beyond development, I have taken on Tech Lead and Product Owner roles, driving end-to-end project delivery, collaborating with cross-functional teams, and enhancing user experience. I have a strong technical foundation in Python, Flask, Machine Learning (LLMs), AWS services, and Web Crawlers, with expertise in automation, AI-driven classification models, and large-scale data analysis.
+Beyond development, I have taken on Tech Lead and Product Owner roles, driving end-to-end project delivery, collaborating with cross-functional teams, 
+and enhancing user experience. I have a strong technical foundation in Python, Flask, Machine Learning (LLMs), AWS services, and Web Crawlers, with expertise in automation, 
+AI-driven classification models, and large-scale data analysis.
 
-With my ability to blend technical problem-solving with business impact, I am passionate about building intelligent automation solutions that drive operational efficiency and innovation. I am excited about opportunities that challenge me to push the boundaries of AI, Cloud, and Automation to solve real-world business problems.
+With my ability to blend technical problem-solving with business impact, I am passionate about building intelligent automation solutions that drive operational efficiency and 
+innovation. I am excited about opportunities that challenge me to push the boundaries of AI, Cloud, and Automation to solve real-world business problems.
