@@ -9,7 +9,7 @@ One of my major contributions was developing SARA (Search And Rescue Automation)
 verifies SSL security, and classifies websites as ads or non-ads using AI-driven contextual analysis. It also automates partner nudging by leveraging AWS services like 
 Comprehend, Textract, WorkMail, and Lambda while mimicking human-like interactions based on historical email conversations.
 Tech Stack used:
-S3,Cognito,EBS,API Gateway,Ec2,Subnets,SES,SNS,Cloudwatch,Textract,Comprehand,Rekognition,Translate
+S3,Cognito,EBS,API Gateway,Ec2,Subnets,SES,SNS,Cloudwatch,Textract,Comprehand,Rekognition,Translate,Workmail
 
 Additionally, I designed Tesseract, an advanced AI-powered web crawler for the Risk & Security team. It detects false marketing claims, 
 trademark violations, misuse of logos, and presence of top leadership images on websites—ensuring compliance and brand safety. 
