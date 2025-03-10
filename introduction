@@ -1,11 +1,11 @@
 My Name is Pavan,
 Im have a overall 6 years of experience in IT,with Python and AWS as my core tech expertise, 
 on the academics i have a MBA degree in Business Analytics and a BTech degree in Computer Science.
-I'm currently working for Amazon and its been 2.5 years with Amazon.
+I'm currently working for Amazon and its been 2.5 years with Amazon, as a team lead.
 My typical day starts with taking updates from the team.assigning tasks and checking on the progress.
-Create reports on the tasks and the corresponding progress, keep it ready for the weekly leadership call.
-Once done, i will be involved in code reviews,design reviews, infra justification meetings, then I will delve into my part of coding.
-We have delivered 2 tools so far to the team.
+Create reports on the tasks and the corresponding progress, keeping it ready for the weekly leadership call.
+Once done, i will be involved in code,design reviews, infra justification meetings, then I will delve into my part of coding.
+We have delivered 2 tools so far from the team.
 My recent successful project is Search And Rescue Automation Tool.This tool is responsible to automate the validations
 that were earlier performed maually by the operations Team.
 Validations involve Denied Party check,GSI Check,Categorisation of websites as Ads or Non Ads,Check for Marketing Claims,Send Nudges.
@@ -19,18 +19,22 @@ on Gen AI we have used services like AWS Comprehand,AWS Translate,AWS Textract. 
 
 Architecture Overview
 The tool is built on a robust AWS-based infrastructure to ensure scalability, security, and efficiency:
+
 Storage & Compute:
 S3 for storing input and processed files.
 EC2 instance for deploying the application.
 Auto-scaling to handle varying workloads.
+
 Security & Networking:
 VPC with subnet isolation for secure deployment.
 API Gateway & Cognito for authentication and API management.
 Security Groups & Routing Rules for filtering inbound/outbound traffic.
+
 Monitoring & Notifications:
 CloudWatch Logs for real-time monitoring.
 AWS Route 53 for domain management.
 Amazon SES & SNS for automated email notifications.
+
 AI & Generative AI Services:
 AWS Textract for extracting text from websites.
 AWS Comprehend for detecting language and analyzing sentiment.
