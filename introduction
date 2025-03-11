@@ -11,6 +11,8 @@ that were earlier performed maually by the operations Team.
 Validations involve Denied Party check,GSI Check,Categorisation of websites as Ads or Non Ads,Check for Marketing Claims,Send Nudges.
 And this is the workflow of the application.
 On the Architecture part
+
+
 /* we have used S3 for storing the files.App server is deployed on the Ec2 instance.
 For security we have a VPC with subnet and API Gateway,Cognito user pool,
 and a security group and auto scaling on the App server Filtering on inbound and outbound traffic on Security Groups.
